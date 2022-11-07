@@ -1,5 +1,12 @@
 #!/bin/bash
 
+##
+# @brief A Script to introduce the abstraction layer for the svg-scraper script.
+# @copyright GNU Public Licence v3 (GPLv3) and others.
+# @api Ccoffee-build-script-alpha-preview.
+# @author pavl_g.
+##
+
 function print() {
     local data=$1
     local color=$2
