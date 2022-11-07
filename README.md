@@ -1,4 +1,4 @@
-# svg-scraper
+# <img src="https://github.com/Software-Hardware-Codesign/svg-scraper/blob/master/project-icon.png" width="50" height="50"></img> svg-scraper
 
 This project gathers scalable images by GNOME, Mate and others.
 
