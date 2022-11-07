@@ -5,9 +5,9 @@ This project gathers scalable images by GNOME, Mate and others.
 This project aims at helping application UI developers and front-end engineers to make the full use of the 
 powerful scalables of GNOME and Mate projects.
 
-Note:
-    - Please, check the licence of the included projects before using their scalables in your apps, the licences are packed at the `View-Licence` section.
-    - If you have more svgs to extract (xfce or others for example), clone and run the script.
+Notes:
+- Please, check the licence of the included projects before using their scalables in your apps, the licences are packed at the [LICENCES](https://github.com/Software-Hardware-Codesign/svg-scraper/tree/master/licences) section.
+- If you have more svgs to extract (xfce or others for example), clone and run the script.
     
 <details>
 <summary>Example of the script output:</summary>
