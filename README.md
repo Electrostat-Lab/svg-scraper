@@ -1,4 +1,4 @@
-# GNU-Scalables Project
+# svg-scraper
 
 This project gathers scalable images by GNOME, Mate and others.
 
